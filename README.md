@@ -135,8 +135,8 @@ music       =
 </div>
 
 <p align="center">
-  <a href="mailto:yusazho@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-yusazho%40gmail.com-9BD5F2?style=for-the-badge&amp;logo=gmail&amp;logoColor=27688C&amp;labelColor=D8EDFC" alt="Gmail: yusazho@gmail.com" />
+  <a href="mailto:yusazh1022@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-yusazh1022%40gmail.com-9BD5F2?style=for-the-badge&amp;logo=gmail&amp;logoColor=27688C&amp;labelColor=D8EDFC" alt="Gmail: yusazh1022@gmail.com" />
   </a>
   <a href="https://x.com/YuSaZh">
     <img src="https://img.shields.io/badge/X-%40YuSaZh-9BD5F2?style=for-the-badge&amp;logo=x&amp;logoColor=27688C&amp;labelColor=D8EDFC" alt="X: @YuSaZh" />
