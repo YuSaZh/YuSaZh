@@ -1,24 +1,15 @@
 <p align="center"><img width="210" height="210" alt="1777909553_ef3dd60c51e07c5ec2f41130198bd595" src="https://github.com/user-attachments/assets/a4df0cdd-98fb-4b23-a217-35be11040fa4" /></p>
 
 <!-- Original Miku animation is intentionally preserved unchanged. -->
+<!-- Original ASCII text is preserved verbatim in assets/ascii-hero.txt and assets/ascii-profile.txt. -->
 
 <div align="center">
 
-```text
-
-   ██╗   ██╗  ██╗   ██╗  ███████╗   █████╗   ███████╗  ██╗  ██╗
-   ╚██╗ ██╔╝  ██║   ██║  ██╔════╝  ██╔══██╗  ╚══███╔╝  ██║  ██║
-    ╚████╔╝   ██║   ██║  ███████╗  ███████║    ███╔╝   ███████║
-     ╚██╔╝    ██║   ██║  ╚════██║  ██╔══██║   ███╔╝    ██╔══██║
-      ██║     ╚██████╔╝  ███████║  ██║  ██║  ███████╗  ██║  ██║
-      ╚═╝      ╚═════╝   ╚══════╝  ╚═╝  ╚═╝  ╚══════╝  ╚═╝  ╚═╝
-
-┌────────────────────────────────────────────────────────────────┐
-│  ROLE: Independent Developer     LOCATION: Tokyo, Japan        │
-│  COMPANY: Open to work           STATUS: ONLINE                │
-└────────────────────────────────────────────────────────────────┘
-
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/ascii-hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/ascii-hero-light.svg" />
+  <img src="./assets/ascii-hero-light.svg" width="820" alt="YUSAZH in original ASCII lettering. ROLE: Independent Developer; LOCATION: Tokyo, Japan; COMPANY: Open to work; STATUS: ONLINE." />
+</picture>
 
 </div>
 
@@ -26,36 +17,11 @@
 
 ## 💻 `root@yusazh:~$ cat about.me`
 
-```properties
-# ═══════════════════════════════════════════════════════════════
-#  ██████╗ ██████╗  ██████╗ ███████╗██╗██╗     ███████╗
-#  ██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║     ██╔════╝
-#  ██████╔╝██████╔╝██║   ██║█████╗  ██║██║     █████╗
-#  ██╔═══╝ ██╔══██╗██║   ██║██╔══╝  ██║██║     ██╔══╝
-#  ██║     ██║  ██║╚██████╔╝██║     ██║███████╗███████╗
-#  ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝
-# ═══════════════════════════════════════════════════════════════
-
-[USER]
-name        = YuSaZh
-handle      = @YuSaZh
-role        = Independent Developer / 个人开发者
-location    = Tokyo, Japan
-company     = Open to work / 目前求职中
-status      = ONLINE
-website     =
-motto       = "vibing vibe code"
-
-[CURRENT_MISSION]
-primary     =
-secondary   =
-side_quest  =
-
-[INTERESTS]
-anime       =
-crypto      =
-music       =
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/ascii-profile-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/ascii-profile-light.svg" />
+  <img src="./assets/ascii-profile-light.svg" width="820" alt="PROFILE ASCII art with user profile: YuSaZh, Tokyo, Independent Developer, Open to work, vibing vibe code." />
+</picture>
 
 <!-- Unknown personal details are deliberately left blank. -->
 
