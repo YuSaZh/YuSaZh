@@ -1,0 +1,75 @@
+<svg
+        width="854"
+        height="140"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        role="img" aria-labelledby="wave-title"
+        viewBox="0 0 854 140"
+      >
+<!--
+Water-blue adaptation of the capsule-render waving footer used by ONLY-yours.
+Source: https://github.com/kyechan99/capsule-render
+Generated with: https://capsule-render.vercel.app/api?type=waving&amp;color=0:6AD7E8,50:60C7F2,100:7AAEFF&amp;height=140&amp;section=footer
+Changes: custom aqua colors; static path fallbacks; explicit SVG rotation; corrected calcMode; accessible title.
+
+MIT License
+Copyright (c) 2020 Ye-Chan Kang
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+-->
+        <title id="wave-title">Water-blue waves</title>
+        <style>
+      .text {   font-size: 70px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 20px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  }  
+      .text, .desc {   animation: fadeIn 1.2s ease-in-out forwards;  } @keyframes fadeIn {   from {     opacity: 0;   }   to {     opacity: 1;   }  } 
+    </style>
+        <defs>
+              <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="#6AD7E8"/><stop offset="50%" stop-color="#60C7F2"/><stop offset="100%" stop-color="#7AAEFF"/>
+              </linearGradient>
+            </defs>
+        
+      <g transform="rotate(180 427 70)">
+        <path d="M0 0L 0 60Q 213.5 100 427 70T 854 95L 854 0 Z" fill="url(#linear)" opacity="0.4" >
+          <animate
+              attributeName="d"
+              dur="20s"
+              repeatCount="indefinite"
+              keyTimes="0;0.333;0.667;1"
+              calcMode="spline"
+              keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+              begin="0s"
+              values="M0 0L 0 60Q 213.5 100 427 70T 854 95L 854 0 Z;M0 0L 0 85Q 213.5 100 427 80T 854 70L 854 0 Z;M0 0L 0 105Q 213.5 75 427 105T 854 70L 854 0 Z;M0 0L 0 60Q 213.5 100 427 70T 854 95L 854 0 Z">
+          </animate>
+        </path>
+        <path d="M0 0L 0 75Q 213.5 120 427 90T 854 100L 854 0 Z" fill="url(#linear)" opacity="0.4" >
+          <animate
+            attributeName="d"
+            dur="20s"
+            repeatCount="indefinite"
+            keyTimes="0;0.333;0.667;1"
+            calcMode="spline"
+            keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+            begin="-10s"
+            values="M0 0L 0 75Q 213.5 120 427 90T 854 100L 854 0 Z;M0 0L 0 90Q 213.5 60 427 60T 854 80L 854 0 Z;M0 0L 0 85Q 213.5 65 427 90T 854 105L 854 0 Z;M0 0L 0 75Q 213.5 120 427 90T 854 100L 854 0 Z">
+          </animate>
+        </path>
+      </g>
+         
+        
+      </svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="228" viewBox="0 0 960 228" role="img" aria-labelledby="title desc">
+  <title id="title">YuSaZh — vibing vibe code</title>
+  <desc id="desc">A Miku teal to water blue banner for YuSaZh, an independent developer in Tokyo.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#D4F5EF"/>
+      <stop offset=".46" stop-color="#D4F3F6"/>
+      <stop offset="1" stop-color="#D9EDFF"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3ABDCA"/>
+      <stop offset=".35" stop-color="#47CBBE"/>
+      <stop offset=".7" stop-color="#64CFE6"/>
+      <stop offset="1" stop-color="#81B8F4"/>
+    </linearGradient>
+    <pattern id="pixels" width="24" height="24" patternUnits="userSpaceOnUse">
+      <rect width="2" height="2" rx="1" fill="#46ABBB" opacity=".13"/>
+    </pattern>
+  </defs>
+  <rect width="960" height="228" rx="22" fill="url(#surface)"/>
+  <rect width="960" height="228" rx="22" fill="url(#pixels)"/>
+  <path d="M22 0H938Q960 0 960 22V7H0V22Q0 0 22 0Z" fill="url(#signal)"/>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" fill="#247C86">
+    <text x="44" y="47" font-size="15" letter-spacing="2.1">INDEPENDENT DEVELOPER</text>
+    <text x="44" y="126" font-family="Trebuchet MS, Segoe UI, Arial, sans-serif" font-size="80" font-weight="700" letter-spacing="-3" fill="#117485">YuSaZh<tspan fill="#E63285">.</tspan></text>
+    <text x="47" y="171" font-size="25" fill="#218994">vibing vibe code</text>
+    <rect x="288" y="153" width="12" height="23" rx="2" fill="#36BCCA">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.45;.5;.95;1" dur="1.4s" repeatCount="indefinite"/>
+    </rect>
+    <text x="48" y="205" font-size="13" letter-spacing="1.5" fill="#438B98">TOKYO, JAPAN</text>
+  </g>
+  <g transform="translate(694 56)" fill="url(#signal)">
+    <rect x="0" y="62" width="16" height="42" rx="3"/>
+    <rect x="25" y="39" width="16" height="65" rx="3"/>
+    <rect x="50" y="9" width="16" height="95" rx="3"/>
+    <rect x="75" y="25" width="16" height="79" rx="3"/>
+    <rect x="100" y="0" width="16" height="104" rx="3"/>
+    <rect x="125" y="42" width="16" height="62" rx="3"/>
+    <rect x="150" y="21" width="16" height="83" rx="3"/>
+    <rect x="175" y="66" width="16" height="38" rx="3"/>
+    <rect x="100" y="-19" width="16" height="11" rx="2" fill="#E63285" opacity=".76"/>
+  </g>
+  <path d="M688 183H890" stroke="#65B9D2" stroke-width="1.5"/>
+  <circle cx="699" cy="202" r="4" fill="#22AD9A"/>
+  <text x="713" y="206" font-family="ui-monospace, Consolas, monospace" font-size="12" letter-spacing="2" fill="#3F86A2">ONLINE</text>
+</svg>
