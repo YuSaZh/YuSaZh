@@ -1,29 +1,77 @@
 <p align="center"><img width="210" height="210" alt="1777909553_ef3dd60c51e07c5ec2f41130198bd595" src="https://github.com/user-attachments/assets/a4df0cdd-98fb-4b23-a217-35be11040fa4" /></p>
 
-<!-- Original Miku animation above is intentionally preserved unchanged. -->
+<!-- Original Miku animation is intentionally preserved unchanged. -->
 
-<p align="center">
-  <img src="./assets/identity.svg" width="100%" alt="YuSaZh — Independent Developer in Tokyo — vibing vibe code" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Tokyo-Japan-96DED9?style=for-the-badge&amp;labelColor=CDF3EC&amp;logoColor=176E77" alt="Location: Tokyo, Japan" />
-  <img src="https://img.shields.io/badge/Status-ONLINE-8EDCD4?style=for-the-badge&amp;labelColor=CDF3EC&amp;logoColor=176E77" alt="Status: ONLINE" />
-  <a href="mailto:yusazho@gmail.com"><img src="https://img.shields.io/badge/Open_to-Work-9AD6F3?style=for-the-badge&amp;labelColor=D9EFFB&amp;logoColor=176E77" alt="Open to work — 目前求职中" /></a>
-</p>
+```text
 
-<img src="./assets/about.svg" width="100%" alt="About — cat about.me" />
+   ██╗   ██╗  ██╗   ██╗  ███████╗   █████╗   ███████╗  ██╗  ██╗
+   ╚██╗ ██╔╝  ██║   ██║  ██╔════╝  ██╔══██╗  ╚══███╔╝  ██║  ██║
+    ╚████╔╝   ██║   ██║  ███████╗  ███████║    ███╔╝   ███████║
+     ╚██╔╝    ██║   ██║  ╚════██║  ██╔══██║   ███╔╝    ██╔══██║
+      ██║     ╚██████╔╝  ███████║  ██║  ██║  ███████╗  ██║  ██║
+      ╚═╝      ╚═════╝   ╚══════╝  ╚═╝  ╚═╝  ╚══════╝  ╚═╝  ╚═╝
 
-<p align="center">
-  <b>个人开发者 · Independent Developer</b><br />
-  东京 / Tokyo, Japan &nbsp; · &nbsp; ONLINE<br />
-  Company / 公司：目前求职中 · Open to work<br /><br />
-  <samp>vibing vibe code</samp>
-</p>
+┌────────────────────────────────────────────────────────────────┐
+│  ROLE: Independent Developer     LOCATION: Tokyo, Japan        │
+│  COMPANY: Open to work           STATUS: ONLINE                │
+└────────────────────────────────────────────────────────────────┘
 
-<!-- Additional personal details can be filled in later when confirmed. -->
+```
 
-<img src="./assets/stack.svg" width="100%" alt="Tech stack — neofetch --stack" />
+</div>
+
+---
+
+## 💻 `root@yusazh:~$ cat about.me`
+
+```properties
+# ═══════════════════════════════════════════════════════════════
+#  ██████╗ ██████╗  ██████╗ ███████╗██╗██╗     ███████╗
+#  ██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║     ██╔════╝
+#  ██████╔╝██████╔╝██║   ██║█████╗  ██║██║     █████╗
+#  ██╔═══╝ ██╔══██╗██║   ██║██╔══╝  ██║██║     ██╔══╝
+#  ██║     ██║  ██║╚██████╔╝██║     ██║███████╗███████╗
+#  ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝
+# ═══════════════════════════════════════════════════════════════
+
+[USER]
+name        = YuSaZh
+handle      = @YuSaZh
+role        = Independent Developer / 个人开发者
+location    = Tokyo, Japan
+company     = Open to work / 目前求职中
+status      = ONLINE
+website     =
+motto       = "vibing vibe code"
+
+[CURRENT_MISSION]
+primary     =
+secondary   =
+side_quest  =
+
+[INTERESTS]
+anime       =
+crypto      =
+music       =
+```
+
+<!-- Unknown personal details are deliberately left blank. -->
+
+---
+
+## 🛠️ `root@yusazh:~$ neofetch --tech-stack`
+
+<div align="center">
+
+```text
+┌────────────────────────────────────────────────────────────────┐
+│                          TECH ARSENAL                          │
+└────────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 <p align="center"><b>Languages</b></p>
 <p align="center">
@@ -50,7 +98,19 @@
   <img src="https://img.shields.io/badge/PySide6-C9E8FA?style=for-the-badge&amp;logo=qt&amp;logoColor=286A93" alt="PySide6 / Qt" />
 </p>
 
-<img src="./assets/projects.svg" width="100%" alt="Selected projects — ls ~/projects" />
+---
+
+## 🚀 `root@yusazh:~$ ls -la ~/projects/`
+
+<div align="center">
+
+```text
+┌────────────────────────────────────────────────────────────────┐
+│                       FEATURED PROJECTS                        │
+└────────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 | Project | What it does |
 | :--- | :--- |
@@ -60,7 +120,19 @@
 | [**ChatGPT Toolkit**](https://github.com/YuSaZh/ChatGPT-Toolkit) | ChatGPT userscript with local usage estimates, message details and optional WebDAV sync.<br /><sub>JavaScript · Node.js · Tampermonkey</sub> |
 | [**Bilibili CDN Router**](https://github.com/YuSaZh/bilibili-cdn-router) | Automatic CDN fallback for Bilibili playback in mpv.<br /><sub>Lua · mpv</sub> |
 
-<img src="./assets/contact.svg" width="100%" alt="Connect — cat contact.conf" />
+---
+
+## 📬 `root@yusazh:~$ cat /etc/contact.conf`
+
+<div align="center">
+
+```text
+┌────────────────────────────────────────────────────────────────┐
+│                        CONNECT WITH ME                         │
+└────────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 <p align="center">
   <a href="mailto:yusazho@gmail.com">
@@ -71,7 +143,17 @@
   </a>
 </p>
 
-<p align="center"><samp>vibing vibe code ♫</samp></p>
+---
+
+<div align="center">
+
+```text
+┌────────────────────────────────────────────────────────────────┐
+│                        vibing vibe code                        │
+└────────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 <!-- Layout inspiration: https://github.com/ONLY-yours -->
 <!-- Same capsule-render waving footer, recolored to water blue; license is embedded in the SVG. -->

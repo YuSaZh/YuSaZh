@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="64" viewBox="0 0 960 64" role="img" aria-label="SELECTED PROJECTS">
-  <defs><linearGradient id="bg"><stop stop-color="#D6F4F5"/><stop offset="1" stop-color="#DCEFFC"/></linearGradient></defs>
-  <rect width="960" height="64" rx="12" fill="url(#bg)"/>
-  <rect x="18" y="16" width="34" height="32" rx="8" fill="#42B8CF" fill-opacity=".17"/>
-  <text x="35" y="38" text-anchor="middle" font-family="ui-monospace, Consolas, monospace" font-size="16" font-weight="700" fill="#267B91">03</text>
-  <text x="71" y="42" font-family="ui-monospace, Consolas, monospace" font-size="30" font-weight="600" fill="#216E83">ls ~/projects</text>
-  <text x="932" y="38" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="13" letter-spacing="2" fill="#4E879E">SELECTED PROJECTS</text>
-</svg>
