@@ -10,9 +10,9 @@
 [USER]
 name        = YuSaZh
 handle      = @YuSaZh
-role        = Independent Developer / 个人开发者
+role        = Independent Developer
 location    = Tokyo, Japan
-company     = Open to work / 目前求职中
+company     = Open to work
 status      = ONLINE
 website     =
 motto       = "vibing vibe code"
